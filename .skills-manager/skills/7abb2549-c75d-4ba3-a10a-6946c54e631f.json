@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7abb2549-c75d-4ba3-a10a-6946c54e631f",
+  "path": "dashi-ppt",
+  "path_key": "dashi-ppt",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "chuspeeism/dashi-ppt-skill/dashi-ppt",
+    "subpath": "skills/dashi-ppt",
+    "branch": null
+  }
+}
